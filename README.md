@@ -28,7 +28,7 @@ In this paper, we perform the experiments using two imaging modalities, includin
 Run the train script `$ python train.py`.
 
 ### Testing
-Please download the pre-trained weights from Baidu Disk (https://pan.baidu.com/s/10HkQ90xeFcHMaNgfIyT0iw, a1sm) and put them in the project directory.
+Please download the pre-trained weights from Baidu Disk (https://pan.baidu.com/s/1MHkadVGC3UVCVchR2AtAVg?pwd=8m7y, 8m7y) and put them in the project directory.
 
 Rename the log_dir as `./checkpoints`.
 
